@@ -1,0 +1,11 @@
+<h2>Pet List</h2>
+
+<button class="logout" (click)="onClickLogout()">Logout</button>
+
+<ul class="pets">
+  <li *ngFor="let pet of pets">
+      <span class="badge">{{pet.id}}</span>
+      <span class="name">{{pet.type}}</span>
+      <span class="address">{{pet.price}}</span>
+  </li>
+</ul>

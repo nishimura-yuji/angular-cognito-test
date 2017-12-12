@@ -1,0 +1,1 @@
+[https://dev.classmethod.jp/cloud/aws/angular-cognito-api-gateway-loginpage](https://dev.classmethod.jp/cloud/aws/angular-cognito-api-gateway-loginpage)
